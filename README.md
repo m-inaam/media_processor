@@ -11,6 +11,8 @@ You can install this package using `pip`:
 ```bash
 pip install media-processor
 
+```
+
 ## Example Usage
 
 ```bash
@@ -26,4 +28,5 @@ photo_folder_name = 'Photos'
 image_extensions = ('.png', '.jpg', '.jpeg', '.gif', '.bmp')
 image_processor_instance = image_processor.ImageProcessor(main_directory, photo_folder_name, image_extensions)
 image_processor_instance.process_images()
-
+    
+```
