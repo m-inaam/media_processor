@@ -57,7 +57,7 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 
 ## Author
 
-* **[Muhammad Inaamullah](https://github.com/m-inaam)**
+**[Muhammad Inaamullah](https://github.com/m-inaam)**
 
 ## Acknowledgments
 
