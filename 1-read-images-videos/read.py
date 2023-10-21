@@ -2,7 +2,7 @@ import cv2 as cv
 import os
 
 # Main directory path
-main_directory = 'C:/Users/muham/OneDrive/Desktop/Projects/computer-vision/Resources'
+main_directory = 'C:/Users/muham/OneDrive/Desktop/computer-vision/Resources'
 
 # Photos folder within the main directory
 photo_directory = os.path.join(main_directory, 'Photos')
