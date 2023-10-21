@@ -35,3 +35,36 @@ image_processor_instance.process_images()
 
 `video_processor` : Contains classes and functions for video processing.    
 `image_processor` : Contains classes and functions for image processing.
+
+## Package Structure
+
+```bash
+media_processor
+├── __init__.py
+├── image_processor.py
+├── video_processor.py
+```
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+```
+MIT License
+===========
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”),
+```
+
+## Author
+
+* **[Muhammad Inaamullah](https://github.com/m-inaam)
+
+## Acknowledgments
+
+* [Python](https://www.python.org/)
+* [OpenCV](https://opencv.org/)
+* [MoviePy](https://zulko.github.io/moviepy/)
+* [Pillow](https://pillow.readthedocs.io/en/stable/)
+* [PyInstaller](https://www.pyinstaller.org/)
+* [PyPI](https://pypi.org/)
+* [GitHub](https://github.com/jasmcaus/opencv-course)
