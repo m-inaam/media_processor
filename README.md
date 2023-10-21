@@ -30,3 +30,13 @@ image_processor_instance = image_processor.ImageProcessor(main_directory, photo_
 image_processor_instance.process_images()
     
 ```
+
+## Modules
+
+```bash 
+video_processor ``` 
+: Contains classes and functions for video processing.
+    
+    ```bash
+image_processor ``` 
+: Contains classes and functions for image processing.
